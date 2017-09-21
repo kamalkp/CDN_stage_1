@@ -1,0 +1,46 @@
+  "logging": {
+  "data" : {
+      "ns": { "ns1.pokecdn.net.": null, "ns2.pokecdn.net.": null },
+    "ns1": {
+    "ns2": {
+    "deviceid": {
+    "deviceid.asia": {
+    "www": {
+    "www.europe": {
+    "psychz.cn": {
+    "psychz.asia": {
+    "psychz.oceania": {
+    "psychz.br": {
+    "psychz": {
+    "premium.br": {
+    "premium.cn": {
+    "premium.asia": {
+    "premium.oceania": {
+    "premium": {
+    "photon.cn": {
+    "photon.br": {
+    "photon.asia": {
+    "photon.oceania": {
+    "photon": {
+    "yard.cn": {
+    "yard.br": {
+    "yard.asia": {
+    "yard.oceania": {
+    "yard": {
+    "regular": {
+    "2033": { "alias": "regular" },
+    "11087": { "alias": "regular" }
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.example.net": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" }
+	,"11175.yetanother.com": { "alias": "regular" }

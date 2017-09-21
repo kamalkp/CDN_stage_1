@@ -1,0 +1,171 @@
+{ "serial": 3,
+  "ttl":    10,
+  "targeting": "country continent @ regiongroup region ip asn",
+  "logging": {
+    "stathat_api": "iU4OMFls2N9hPVR8"
+  },
+  "data" : {
+    "":  {
+      "a": [ ["172.106.22.69"] ],
+      "ns": { "ns1.pokecdn.net.": null, "ns2.pokecdn.net.": null },
+      "txt": "google-site-verification=mTU9ddmpbOPgdUbrG1XBhVeygSM6QFWFTvlxSyX_iIU"
+    },
+    "ns1": {
+      "a": [ [ "172.106.172.2" ] ]
+    },
+    "ns2": {
+      "a": [ [ "172.106.172.3" ] ]
+    },
+    "deviceid": {
+      "a": [ [ "172.106.172.3" ] ]
+    },
+    "deviceid.asia": {
+      "a": [ [ "103.78.120.23" ] ]
+    },
+    "www": {
+      "alias": "",
+      "txt": "This is default traffic."
+    },
+    "www.europe": {
+      "alias": "",
+      "txt": "This is for EU traffic."
+    },
+    "psychz.cn": {
+      "a": [ [ "172.106.4.18" ] ]
+    },
+    "psychz.asia": {
+      "a": [ [ "103.78.120.4" ] ]
+    },
+    "psychz.oceania": {
+      "a": [ [ "103.78.120.4" ] ]
+    },
+    "psychz.br": {
+      "a": [ [ "181.41.219.13" ] ]
+    },
+    "psychz": {
+      "a": [ [ "172.106.22.4" ] ]
+    },
+    "premium.br": {
+      "a": [ [ "181.41.217.190" ] ]
+    },
+    "premium.cn": {
+      "a": [ [ "172.106.22.7" ] ]
+    },
+    "premium.asia": {
+      "a": [ [ "103.78.120.7" ] ]
+    },
+    "premium.oceania": {
+      "a": [ [ "103.78.120.7" ] ]
+    },
+    "premium": {
+      "a": [ [ "172.106.22.7" ] ]
+    },
+    "photon.cn": {
+      "a": [ [ "172.106.4.19" ] ]
+    },
+    "photon.br": {
+      "a": [ [ "181.41.217.232" ] ]
+    },
+    "photon.asia": {
+      "a": [ [ "103.78.120.2" ] ]
+    },
+    "photon.oceania": {
+      "a": [ [ "103.78.120.2" ] ]
+    },
+    "photon": {
+      "a": [ [ "172.106.22.2" ] ]
+    },
+    "yard.cn": {
+      "a": [ [ "172.106.4.20" ] ]
+    },
+    "yard.br": {
+      "a": [ [ "181.41.219.184" ] ]
+    },
+    "yard.asia": {
+      "a": [ [ "103.78.120.3" ] ]
+    },
+    "yard.oceania": {
+      "a": [ [ "103.78.120.3" ] ]
+    },
+    "yard": {
+      "a": [ [ "172.106.22.3" ] ]
+    },
+    "regular": {
+      "a": [ [ "172.106.22.7" ] ]
+    },
+    "2033": { "alias": "regular" },
+    "11087": { "alias": "regular" }
+ ,
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.dosattack.net": { "alias": "regular" },
+"11065.example.net": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" },
+"1111.example.com": { "alias": "regular" }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+	,"11175.yetanother.com": { "alias": "regular" }
+	,"11175.someother.com": { "alias": "regular" }
+	,"11175.someother.com": { "alias": "regular" }
+	,"11175.yetanother.com": { "alias": "regular" }
+	,"11175.someother.com": { "alias": "regular" }
+	,"11175.someother.com": { "alias": "regular" }
+  }
+}
